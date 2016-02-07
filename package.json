@@ -1,8 +1,8 @@
 {
 	"name": "theme-base16-ocean-dark",
-	"displayName": "Spacegray's Base16 Ocean Dark",
+	"displayName": "Base16 Ocean Dark",
 	"description": "",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"publisher": "viatsko",
 	"engines": {
 		"vscode": "^0.10.6"
