@@ -1,0 +1,22 @@
+{
+	"name": "theme-base16-ocean-dark",
+	"displayName": "Spacegray's Base16 Ocean Dark",
+	"description": "",
+	"version": "0.0.1",
+	"publisher": "viatsko",
+	"engines": {
+		"vscode": "^0.10.6"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Base16 Ocean Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/base16-ocean.dark.tmTheme"
+			}
+		]
+	}
+}
